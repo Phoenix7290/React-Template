@@ -3,7 +3,7 @@ import './App.css'
 export default function App() {
     return (
         <main>
-            <a href="src/TP1/02/index.html">TP 1.1</a>
+            <a href="src/TP1/01/index.html">TP 1.1</a>
             <a href="src/TP1/02/index.html">TP 1.2</a>
             <a href="src/TP1/03/index.html">TP 1.3</a>
             <a href="src/TP1/04/index.html">TP 1.4</a>
