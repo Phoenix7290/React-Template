@@ -1,5 +1,7 @@
+import GaleriaImagens from "./components/GaleriaImagens.jsx";
+
 export default function App() {
     return (
-        <div>Hello World</div>
+        <GaleriaImagens/>
     )
 }

@@ -1,5 +1,7 @@
+import ListaTarefas from "./components/ListaTarefas"
+
 export default function App() {
     return (
-        <div>Hello World</div>
+        <div><ListaTarefas/></div>
     )
 }

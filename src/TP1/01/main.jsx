@@ -5,6 +5,6 @@ import './main.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <App precoProduto={100} quantidadeProduto={20}/>
   </React.StrictMode>,
 )
