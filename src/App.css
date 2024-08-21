@@ -1,34 +1,9 @@
 main {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
   background-color: #f0f0f0;
-  gap: 100px;
-  margin: 0;
-  padding: 20px;
-}
-
-section {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-}
-
-section div {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  width: 100%;
-  max-width: 1200px;
-  padding: 20px;
-  background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  box-sizing: border-box;
 }
 
 a {
@@ -36,14 +11,11 @@ a {
   text-decoration: none; 
   color: #007BFF; 
   font-weight: bold;
-  padding: 8px 12px;
-  border: 2px solid black;
-  border-radius: 4px;
-  transition: all 0.3s ease;
+  padding: 5px;
+  border: 2px black solid;
 }
 
 a:hover {
   color: #0056b3;
   text-decoration: underline;
-  background-color: #e0e0e0;
 }
