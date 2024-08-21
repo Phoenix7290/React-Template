@@ -1,15 +1,5 @@
-import Cabecalho from "./portfolio/Cabecalho";
-import Contatos from "./portfolio/Contatos";
-import Projetos from "./portfolio/Projetos";
-
-const App = () => {
+export default function App() {
     return (
-        <div>
-            <Cabecalho />
-            <Projetos />
-            <Contatos />
-        </div>
+        <div>Hello World</div>
     )
 }
-
-export default App;

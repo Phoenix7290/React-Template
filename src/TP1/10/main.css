@@ -3,10 +3,3 @@
   margin: 0;
   box-sizing: border-box;
 }
-
-body {
-  font-size: xx-large;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
