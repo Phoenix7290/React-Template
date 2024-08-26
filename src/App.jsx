@@ -5,7 +5,7 @@ export default function App() {
         <main>
             <section>
                 <h1>TP 1</h1>
-                <div>
+                <div className='container'>
                 <a href="src/TP1/01/index.html">TP 1.1</a>
                     <a href="src/TP1/02/index.html">TP 1.2</a>
                     <a href="src/TP1/03/index.html">TP 1.3</a>
@@ -26,7 +26,7 @@ export default function App() {
             </section>
             <section>
                 <h1>TP 2</h1>
-                <div>
+                <div className='container'>
                     <a href="src/TP2/01/index.html">TP 2.1</a>
                     <a href="src/TP2/02/index.html">TP 2.2</a>
                     <a href="src/TP2/03/index.html">TP 2.3</a>
